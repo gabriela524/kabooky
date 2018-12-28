@@ -1,0 +1,31 @@
+.cuerpo{
+background-color: #E1E9EB;
+}
+#letra{
+  font-family: monospace;
+}
+p {
+  margin: 30px;
+}
+
+#logo{
+  width:60px; height:70px;
+ }
+#encabezado{
+  width:100%;
+  float: left;
+}
+#cuadro {
+    background-color: #F7F9F9;
+}
+#fotos{
+  width: 500px
+
+}
+
+#fnac{
+  width: 50px;
+}
+#concurso{
+   font: 150% sans-serif;
+}
